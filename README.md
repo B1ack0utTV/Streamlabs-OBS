@@ -86,7 +86,7 @@ If you have sudden FPS issues capturing a DirectX 9 game after the latest major 
 
 * Run Streamlabs OBS as Administrator.
 * Run both Streamlabs OBS and the game as Administrator.
-* Havve Streamlabs OBS installed in Program Files (default install location).
+* Have Streamlabs OBS installed in Program Files (default install location).
     - Some games and Windows Store games, like Sea of Thieves, need this due to given additional permissions.
 * Use `Capture Specific Window` mode if using Game Capture and/or toggle anti-cheat hook.
 
